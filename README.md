@@ -2,6 +2,9 @@
 
 Landing page statis untuk brand minuman Kogu Space. Dibangun dengan HTML dan CSS murni, ringan, responsif, dan mudah dikustomisasi.
 
+<img width="1884" height="1034" alt="image" src="https://github.com/user-attachments/assets/42dbfe04-9a70-4173-9dc8-318b496c8ab6" />
+
+
 ## Fitur
 
 - **Header & Navigasi**: Navigasi ke setiap section (`#home`, `#menu`, `#reviews`, `#location`, `#about`).
